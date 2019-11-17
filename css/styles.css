@@ -19,7 +19,7 @@ padding: 0;
 margin: 0;
 position: relative;
 
-
+    
 background-position: center center;      
 background-repeat: no-repeat;      
 background-attachment: fixed;   
@@ -28,8 +28,6 @@ background-attachment: fixed;
 -moz-background-size: cover;
 -o-background-size: cover;   
 background-size: cover;
-
-
 
 min-widtht:768px;
 }
